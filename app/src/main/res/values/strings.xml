@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="create_account">Create account</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="age">AGE</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="bio">BIO</string>
+    <string name="location">LOCATION</string>
+    <string name="sign_up">Sign up</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="year">Age</string>
+    <string name="place">Location</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="about">Bio</string>
+</resources>
